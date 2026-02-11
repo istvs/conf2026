@@ -14,14 +14,15 @@ Both representatives of science in the field of mechanical engineering, vehicles
 
 The intention of the organizers is to create a friendly atmosphere and comfortable conditions for holding plenary sessions. The conference includes the following thematic tracks:
 
-* soil mechanical characterization
-* off-road mobility modeling
-* soil compaction
-* driving systems of off-road vehicles and machines
-* innovative concepts of tires, wheels, and tracks
-* propulsion systems and engines
-* vetronics
-* autonomous and robotic systems
-* metrology in terramechanics
+* Innovative concepts in tires, wheels, tracks, and other ground contact elements
+* Propulsion systems and vehicle electrification
+* Creative terrain mechanical characterization and deformation modeling\
+  Advances in off-road mobility modeling
+* Off-road autonomy, robotics and navigation
+* Planetary terramechanics
+* New instrumentation and analysis methods in terramechanics testing
+* Climate impacts on terrain, terramechanics, and off-road vehicles
+* Off-road vehicle dynamics and control, including advanced driver assist and collision prevention systems
+* International collaborations
 
 <figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>

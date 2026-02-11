@@ -49,7 +49,7 @@ Access the ISTVS 2026 EasyChair site here: [https://easychair.org/my/conference?
 ### Submission guidelines
 
 * Make sure that the authors you list in the **EasyChair** form are **the same** as in your full paper and/or poster, and in the **same order**.
-* Adopt the same **consistency** for the **authors’ affiliations**.
+* Ensure the authors’ affiliations match across **all** submissions and forms.
 * If at any time you need to make changes to the list of authors, please **promptly notify the conference organizers**.
 * If the same authors appear in **multiple submissions**, please write the authors' **names** and **affiliations** in the **same way**, for **all submissions** (both in EasyChair and in the papers/posters).
 * If the Latin alphabet is not your native alphabet, please make sure that you use the **same transliteration** for your name across all submissions.
