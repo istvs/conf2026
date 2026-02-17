@@ -1,5 +1,5 @@
 ---
-description: ISTVS 2026 | October 11-14, 2026 | Pretoria, South Africa
+description: ISTVS 2026 | October 11-15, 2026 | Pretoria, South Africa
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---

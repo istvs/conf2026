@@ -1,8 +1,10 @@
 ---
-description: ISTVS 2026 | October 11-14, 2026  | Pretoria, South Africa
+description: ISTVS 2026 | October 11-15, 2026  | Pretoria, South Africa
 ---
 
 # Call for Papers
+
+<figure><img src="../.gitbook/assets/ISTVS2026-CFP.jpg" alt=""><figcaption></figcaption></figure>
 
 _ISTVS 2026_, the _56th Conference of the International Society for Terrain-Vehicle Systems_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
