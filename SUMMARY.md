@@ -10,6 +10,7 @@
 * [Registration](conference/registration.md)
 * [Call for Papers](conference/call-for-papers.md)
 * [Committee](conference/committee.md)
+* [Student Design Competition](conference/student-design-competition.md)
 
 ## Society
 
