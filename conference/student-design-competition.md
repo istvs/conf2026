@@ -1,6 +1,5 @@
 ---
 description: ISTVS 2026 | October 11-15, 2026  | Pretoria, South Africa
-hidden: true
 ---
 
 # Student Design Competition
@@ -13,5 +12,5 @@ The competition organisers will manufacture your design and subject it to rigoro
 
 Register your team by **15 May 2026** to secure your place in the competition, and submit your final deliverables by **25 September 2026**.
 
-The official rulebook and required materials can be found at **<\<PLACEHOLDER FOR LINK TO RULEBOOK AND RIM DESIGN>>**. For more information, please reach out to Andries Peenze at [andriespeenze@tuks.co.za](mailto:andriespeenze@tuks.co.za).
+The official rulebook and required materials can be found on [Google Drive](https://drive.google.com/drive/folders/1MFw034p7ziy4XJ6BmuIC7BoxZuddSXNM?usp=sharing). For more information, please reach out to Andries Peenze at [andriespeenze@tuks.co.za](mailto:andriespeenze@tuks.co.za).
 
