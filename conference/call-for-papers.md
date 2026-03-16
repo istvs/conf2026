@@ -8,7 +8,7 @@ description: ISTVS 2026 | October 11-15, 2026  | Pretoria, South Africa
 
 _ISTVS 2026_, the _56th Conference of the International Society for Terrain-Vehicle Systems_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
-* Interested authors are invited to submit an abstract between **16 February and 15 March, 2026**.
+* Interested authors are invited to submit an abstract between **16 February and 3 April, 2026 (extended deadline)**.
 * Abstracts must be **under 1800 characters** and must emphasize the objectives and results.
 * Authors may choose between the following two types of submissions: **full paper** or **abstract-only**.
 * For either type of submission, authors can choose to do an **oral presentation** at the conference or submit a **poster** for the conference poster session. At least one of the authors must attend the conference for either.
