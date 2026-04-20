@@ -67,7 +67,7 @@ Access the ISTVS 2026 EasyChair site here: [https://easychair.org/my/conference?
 
 Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template**.
 
-{% file src="../.gitbook/assets/ISTVS2026_Paper_Template.zip" %}
+{% file src="../.gitbook/assets/ISTVS_paper_template_2026.zip" %}
 
 The zip archive provided includes a **reference PDF**, in case the _Word_ document breaks when opened locally.
 
