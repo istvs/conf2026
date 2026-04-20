@@ -63,6 +63,18 @@ Access the ISTVS 2026 EasyChair site here: [https://easychair.org/my/conference?
 
 **No template** is required to submit your abstract. Submission is done directly on the [EasyChair submission platform](https://easychair.org/my/conference?conf=istvs2026).
 
-#### Full paper
+#### Full paper <a href="#full-paper" id="full-paper"></a>
 
-Full paper templates and submission instructions will be updated as they become available.
+Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template**.
+
+{% file src="../.gitbook/assets/ISTVS2026_Paper_Template.zip" %}
+
+The zip archive provided includes a **reference PDF**, in case the _Word_ document breaks when opened locally.
+
+#### Presentation <a href="#presentation" id="presentation"></a>
+
+A template and instructions for presentations will be added to this page soon.
+
+#### Poster <a href="#poster" id="poster"></a>
+
+A template and instructions for posters will be added to this page soon.
