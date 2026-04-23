@@ -9,25 +9,5 @@ hidden: true
 
 Click **here** to register
 
-| Early Bird Registration (X - June 15) | Cost   |
-| ------------------------------------- | ------ |
-| Full Conference - Regular             | $X USD |
-| Full Conference - Student/Retiree     | $X USD |
+<table><thead><tr><th width="449">Early Bird Registration (April 24 - June 15)</th><th>Cost</th></tr></thead><tbody><tr><td>Full Conference - ISTVS Member</td><td>730 Euro</td></tr><tr><td>Full Conference - ISTVS Non Member</td><td>790 Euro</td></tr><tr><td>Full Conference - ISTVS Student Member / Retiree</td><td>350 Euro</td></tr><tr><td>Full Conference - ISTVS Student / Retiree Non-member</td><td>380 Euro</td></tr></tbody></table>
 
-| Standard Registration (June 15 - September 29) | Cost   |
-| ---------------------------------------------- | ------ |
-| Full Conference - Regular                      | $X USD |
-| Full Conference - Student/Retiree              | $X USD |
-
-| Other Registration              | Cost   |
-| ------------------------------- | ------ |
-| Partial Conference - Single Day | $X USD |
-
-| Workshop Registration       | Cost   |
-| --------------------------- | ------ |
-| Algoryx Workshop (**DATE**) | $X USD |
-
-| Accompanying Person Tickets      | Cost   |
-| -------------------------------- | ------ |
-| Ice Breaker Reception (**DATE**) | $X USD |
-| Banquet (**DATE**)               | $X USD |
